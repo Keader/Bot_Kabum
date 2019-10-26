@@ -1,7 +1,9 @@
 const  request = require('request');
 const  cheerio = require('cheerio');
 
-request('https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=rtx+2070+super', { encoding: 'binary'} ,  function(err, res, body)
+const url = 'https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=rtx+2070+super';
+
+request(url, { encoding: 'binary'} ,  function(err, res, body)
 {
     if (err)
         console.log('Error: ' + err);
