@@ -28,7 +28,7 @@ request(url, { encoding: 'binary'} ,  function(err, res, body)
             const available = !image.includes('comprar_off');
             console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n');
 
-            //Todo: Need check parse all link pages, to check if has promotion or not.
+            //Todo: Need parse all links, to check if has promotion or not.
 
         });
     }
