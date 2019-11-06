@@ -1,0 +1,2730 @@
+[
+  {
+    "name": "Hospital da Mulher",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2417176,
+      "lgt": -38.9785283
+    }
+  },
+  {
+    "name": "Ponto de Táxi do Shopping",
+    "type": "taxi",
+    "point": {
+      "lat": -12.2414981,
+      "lgt": -38.9469813
+    }
+  },
+  {
+    "name": "EMEC",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2552293,
+      "lgt": -38.9541605
+    }
+  },
+  {
+    "name": "Ponto de Táxi da Rodoviária",
+    "type": "taxi",
+    "point": {
+      "lat": -12.2589626,
+      "lgt": -38.9582327
+    }
+  },
+  {
+    "name": "Assembléia de Deus",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2611693,
+      "lgt": -38.9578488
+    }
+  },
+  {
+    "name": "Essencia Vitae",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2556628,
+      "lgt": -38.9585792
+    }
+  },
+  {
+    "name": "Igreja Senhor dos Passos",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2549094,
+      "lgt": -38.9652063
+    }
+  },
+  {
+    "name": "Escola Municipal Ana Brandoa",
+    "type": "school",
+    "point": {
+      "lat": -12.277345,
+      "lgt": -38.956142
+    }
+  },
+  {
+    "name": "Banco do Brasil",
+    "type": "bank",
+    "point": {
+      "lat": -12.2552558,
+      "lgt": -38.952889
+    }
+  },
+  {
+    "name": "Negócio da China",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2560946,
+      "lgt": -38.9549811
+    }
+  },
+  {
+    "name": "Instituto de Radiologia de Feira de Santana",
+    "type": "clinical",
+    "point": {
+      "lat": -12.2556642,
+      "lgt": -38.9584358
+    }
+  },
+  {
+    "name": "Farmácia do Caroá",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2552941,
+      "lgt": -38.9533646
+    }
+  },
+  {
+    "name": "Giraffas",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2557297,
+      "lgt": -38.9602818
+    }
+  },
+  {
+    "name": "COF - Clínica de Otorrino e Fono",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2559321,
+      "lgt": -38.9544264
+    }
+  },
+  {
+    "name": "Bobs",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2548936,
+      "lgt": -38.9654585
+    }
+  },
+  {
+    "name": "Catedral Metropolitana de Sant\u0027Ana",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2592661,
+      "lgt": -38.9683124
+    }
+  },
+  {
+    "name": "Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2557658,
+      "lgt": -38.9539508
+    }
+  },
+  {
+    "name": "Instituto de Educação Gastão Guimarães",
+    "type": "school",
+    "point": {
+      "lat": -12.2572769,
+      "lgt": -38.9570137
+    }
+  },
+  {
+    "name": "Point da Massa",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.256727,
+      "lgt": -38.956006
+    }
+  },
+  {
+    "name": "Posto Nordeste",
+    "type": "fuel",
+    "point": {
+      "lat": -12.259773,
+      "lgt": -38.967241
+    }
+  },
+  {
+    "name": "Caixa",
+    "type": "bank",
+    "point": {
+      "lat": -12.2556419,
+      "lgt": -38.9625079
+    }
+  },
+  {
+    "name": "Portal Beer",
+    "type": "bar",
+    "point": {
+      "lat": -12.2576025,
+      "lgt": -38.9581188
+    }
+  },
+  {
+    "name": "ICP - Instituto do Coração e do Pulmão",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2570043,
+      "lgt": -38.9550396
+    }
+  },
+  {
+    "name": "CCAA",
+    "type": "school",
+    "point": {
+      "lat": -12.2556257,
+      "lgt": -38.9616008
+    }
+  },
+  {
+    "name": "Farmácia do Caroá",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2557683,
+      "lgt": -38.9540718
+    }
+  },
+  {
+    "name": "IDM - Instituto de Diagnostíco da Mulher",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2558101,
+      "lgt": -38.9551365
+    }
+  },
+  {
+    "name": "Itaú",
+    "type": "bank",
+    "point": {
+      "lat": -12.25636,
+      "lgt": -38.9549922
+    }
+  },
+  {
+    "name": "Santander",
+    "type": "bank",
+    "point": {
+      "lat": -12.2551076,
+      "lgt": -38.9577446
+    }
+  },
+  {
+    "name": "Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2551556,
+      "lgt": -38.9565012
+    }
+  },
+  {
+    "name": "Colégio Acesso",
+    "type": "school",
+    "point": {
+      "lat": -12.2550966,
+      "lgt": -38.95856
+    }
+  },
+  {
+    "name": "Itaú",
+    "type": "bank",
+    "point": {
+      "lat": -12.2551595,
+      "lgt": -38.955373
+    }
+  },
+  {
+    "name": "Caixa",
+    "type": "bank",
+    "point": {
+      "lat": -12.2561031,
+      "lgt": -38.9573048
+    }
+  },
+  {
+    "name": "Bradesco",
+    "type": "bank",
+    "point": {
+      "lat": -12.2557781,
+      "lgt": -38.9563655
+    }
+  },
+  {
+    "name": "LADE - Laboratório de Diagnóstico Especializado",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2567107,
+      "lgt": -38.9567361
+    }
+  },
+  {
+    "name": "Pastelaria Brasil",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.259555,
+      "lgt": -38.9589885
+    }
+  },
+  {
+    "name": "Doce Massa",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.258728,
+      "lgt": -38.9588893
+    }
+  },
+  {
+    "name": "Hospital São Matheus",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2558546,
+      "lgt": -38.955802
+    }
+  },
+  {
+    "name": "Empada Carioca",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2549469,
+      "lgt": -38.9544196
+    }
+  },
+  {
+    "name": "Ki Mukeka",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2551194,
+      "lgt": -38.9559322
+    }
+  },
+  {
+    "name": "Hospital Ortopédico",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2557951,
+      "lgt": -38.9570536
+    }
+  },
+  {
+    "name": "Farmô",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2557901,
+      "lgt": -38.9572628
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2556696,
+      "lgt": -38.9582391
+    }
+  },
+  {
+    "name": "A Fórmula",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2557899,
+      "lgt": -38.9571716
+    }
+  },
+  {
+    "name": "Pague Menos",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.255051,
+      "lgt": -38.9596231
+    }
+  },
+  {
+    "name": "Novo Sabor",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.259386,
+      "lgt": -38.9627562
+    }
+  },
+  {
+    "name": "Chalé Catarinense",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2550664,
+      "lgt": -38.9593871
+    }
+  },
+  {
+    "name": "Banco do Brasil",
+    "type": "bank",
+    "point": {
+      "lat": -12.2558738,
+      "lgt": -38.9549304
+    }
+  },
+  {
+    "name": "Colégio Polivalente",
+    "type": "school",
+    "point": {
+      "lat": -12.269695,
+      "lgt": -38.9540021
+    }
+  },
+  {
+    "name": "Correios",
+    "type": "post_office",
+    "point": {
+      "lat": -12.2549838,
+      "lgt": -38.9646942
+    }
+  },
+  {
+    "name": "Limão Drinks",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2555216,
+      "lgt": -38.9625894
+    }
+  },
+  {
+    "name": "Farmácia Vitória",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2846117,
+      "lgt": -38.9574432
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2839507,
+      "lgt": -38.9574839
+    }
+  },
+  {
+    "name": "Centro Educacional São Felipe",
+    "type": "school",
+    "point": {
+      "lat": -12.2847585,
+      "lgt": -38.9574432
+    }
+  },
+  {
+    "name": "Correios",
+    "type": "post_office",
+    "point": {
+      "lat": -12.2842862,
+      "lgt": -38.9570226
+    }
+  },
+  {
+    "name": "Posto Alameda",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2560352,
+      "lgt": -38.9487432
+    }
+  },
+  {
+    "name": "Ki Mukeka",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2558795,
+      "lgt": -38.9526461
+    }
+  },
+  {
+    "name": "Bar Ponto do Zequinha",
+    "type": "bar",
+    "point": {
+      "lat": -12.255899,
+      "lgt": -38.9519348
+    }
+  },
+  {
+    "name": "IMME",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2559938,
+      "lgt": -38.9495747
+    }
+  },
+  {
+    "name": "Clínica Trauma Ortopédica Benício C. Cavalcanti",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2554801,
+      "lgt": -38.9490919
+    }
+  },
+  {
+    "name": "Cliort",
+    "type": "clinic",
+    "point": {
+      "lat": -12.256581,
+      "lgt": -38.9585759
+    }
+  },
+  {
+    "name": "HTO Hospital Geral",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2553543,
+      "lgt": -38.9522834
+    }
+  },
+  {
+    "name": "Physios Fisioterapia",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2543777,
+      "lgt": -38.9551692
+    }
+  },
+  {
+    "name": "Alla Spina",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.254884,
+      "lgt": -38.9561663
+    }
+  },
+  {
+    "name": "Terminal Sul - Tomba",
+    "type": "bus_station",
+    "point": {
+      "lat": -12.2952453,
+      "lgt": -38.9573553
+    }
+  },
+  {
+    "name": "Spacca Napoli",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2548982,
+      "lgt": -38.956521
+    }
+  },
+  {
+    "name": "Colégio Padre Ovídio",
+    "type": "school",
+    "point": {
+      "lat": -12.2599688,
+      "lgt": -38.965787
+    }
+  },
+  {
+    "name": "Estação Norte",
+    "type": "bus_station",
+    "point": {
+      "lat": -12.2239875,
+      "lgt": -38.9643503
+    }
+  },
+  {
+    "name": "Banco do Brasil",
+    "type": "bank",
+    "point": {
+      "lat": -12.2230994,
+      "lgt": -38.9643233
+    }
+  },
+  {
+    "name": "Centro de Abastecimento de Feira de Santana",
+    "type": "marketplace",
+    "point": {
+      "lat": -12.2534203,
+      "lgt": -38.971493
+    }
+  },
+  {
+    "name": "Feira da Cidade Nova",
+    "type": "marketplace",
+    "point": {
+      "lat": -12.2254322,
+      "lgt": -38.9642294
+    }
+  },
+  {
+    "name": "Arte da Amélia",
+    "type": "bar",
+    "point": {
+      "lat": -12.2653062,
+      "lgt": -38.9510819
+    }
+  },
+  {
+    "name": "Colégio Santo Antônio",
+    "type": "school",
+    "point": {
+      "lat": -12.2625947,
+      "lgt": -38.9471027
+    }
+  },
+  {
+    "name": "Igreja dos Capuchinhos",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2629683,
+      "lgt": -38.9470538
+    }
+  },
+  {
+    "name": "Fórum Filinto Bastos",
+    "type": "courthouse",
+    "point": {
+      "lat": -12.2498193,
+      "lgt": -38.962251
+    }
+  },
+  {
+    "name": "Todo Dia",
+    "type": "bicycle_parking",
+    "point": {
+      "lat": -12.2531221,
+      "lgt": -38.9625187
+    }
+  },
+  {
+    "name": "Escola Advento",
+    "type": "school",
+    "point": {
+      "lat": -12.2656553,
+      "lgt": -38.952108
+    }
+  },
+  {
+    "name": "Colégio Independência",
+    "type": "school",
+    "point": {
+      "lat": -12.2640636,
+      "lgt": -38.9522446
+    }
+  },
+  {
+    "name": "Centro de Cultura Amélio Amorim",
+    "type": "theatre",
+    "point": {
+      "lat": -12.2642121,
+      "lgt": -38.9452975
+    }
+  },
+  {
+    "name": "Teatro do CUCA",
+    "type": "theatre",
+    "point": {
+      "lat": -12.2575459,
+      "lgt": -38.9681922
+    }
+  },
+  {
+    "name": "Subway",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2551506,
+      "lgt": -38.9572567
+    }
+  },
+  {
+    "name": "Comunidade Cristã Shalom Adonai",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2645787,
+      "lgt": -38.9496865
+    }
+  },
+  {
+    "name": "Kilo Mania",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2637054,
+      "lgt": -38.9526463
+    }
+  },
+  {
+    "name": "Escola Municipal Edith Mendes Gama e Abreu",
+    "type": "school",
+    "point": {
+      "lat": -12.2665562,
+      "lgt": -38.9486727
+    }
+  },
+  {
+    "name": "Farmácia Brito",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2457894,
+      "lgt": -38.9481465
+    }
+  },
+  {
+    "name": "Escola José de Anchieta",
+    "type": "school",
+    "point": {
+      "lat": -12.2470565,
+      "lgt": -38.9485679
+    }
+  },
+  {
+    "name": "Igreja Messiânica do Brasil",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.266275,
+      "lgt": -38.9527574
+    }
+  },
+  {
+    "name": "Pizzaria Barreto",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2670539,
+      "lgt": -38.9535789
+    }
+  },
+  {
+    "name": "Bacalhau do Mendes",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2581866,
+      "lgt": -38.9505732
+    }
+  },
+  {
+    "name": "IEF - Igreja Evangélica Fundamentalista",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2604664,
+      "lgt": -38.9496082
+    }
+  },
+  {
+    "name": "Madereira Cerqueira",
+    "type": "bicycle_parking",
+    "point": {
+      "lat": -12.2591745,
+      "lgt": -38.9495492
+    }
+  },
+  {
+    "name": "Nutriclin",
+    "type": "doctors",
+    "point": {
+      "lat": -12.2551117,
+      "lgt": -38.9533213
+    }
+  },
+  {
+    "name": "Tchin Yen Bao",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2579965,
+      "lgt": -38.9508313
+    }
+  },
+  {
+    "name": "Doce Doçura",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2677136,
+      "lgt": -38.9536918
+    }
+  },
+  {
+    "name": "ECASSA",
+    "type": "school",
+    "point": {
+      "lat": -12.2633468,
+      "lgt": -38.9464708
+    }
+  },
+  {
+    "name": "Churrascaria Brasil",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2642658,
+      "lgt": -38.9478687
+    }
+  },
+  {
+    "name": "Bar 2 de Julho",
+    "type": "bar",
+    "point": {
+      "lat": -12.2628336,
+      "lgt": -38.9483507
+    }
+  },
+  {
+    "name": "Hospital Especializado Lopes Rodrigues",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2721543,
+      "lgt": -38.9419926
+    }
+  },
+  {
+    "name": "UEFS - Universidade Estadual de Feira de Santana",
+    "type": "university",
+    "point": {
+      "lat": -12.1999339,
+      "lgt": -38.9670552
+    }
+  },
+  {
+    "name": "Creche Escola Princípios",
+    "type": "kindergarten",
+    "point": {
+      "lat": -12.2617038,
+      "lgt": -38.9482715
+    }
+  },
+  {
+    "name": "Pasta Fast",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2486049,
+      "lgt": -38.9483888
+    }
+  },
+  {
+    "name": "Posto Cajueiro",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2703745,
+      "lgt": -38.9375873
+    }
+  },
+  {
+    "name": "Subway",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2702936,
+      "lgt": -38.9375798
+    }
+  },
+  {
+    "name": "Banho Maria Cuscuzeria",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2586052,
+      "lgt": -38.9517677
+    }
+  },
+  {
+    "name": "Seu Zé Lounge Bar",
+    "type": "bar",
+    "point": {
+      "lat": -12.2518999,
+      "lgt": -38.9531356
+    }
+  },
+  {
+    "name": "FAT - Faculdade Anísio Teixeira",
+    "type": "college",
+    "point": {
+      "lat": -12.2580752,
+      "lgt": -38.9520632
+    }
+  },
+  {
+    "name": "Botekim",
+    "type": "bar",
+    "point": {
+      "lat": -12.2475435,
+      "lgt": -38.948679
+    }
+  },
+  {
+    "name": "Acarajé",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.248077,
+      "lgt": -38.9482929
+    }
+  },
+  {
+    "name": "Kabana\u0027s Bar",
+    "type": "nightclub",
+    "point": {
+      "lat": -12.2573221,
+      "lgt": -38.9454403
+    }
+  },
+  {
+    "name": "Kitas Pizza",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2563172,
+      "lgt": -38.945214
+    }
+  },
+  {
+    "name": "Academia Maciste",
+    "type": "bicycle_parking",
+    "point": {
+      "lat": -12.2681815,
+      "lgt": -38.9521126
+    }
+  },
+  {
+    "name": "Amarelo Gema",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2537735,
+      "lgt": -38.9572243
+    }
+  },
+  {
+    "name": "Kumon",
+    "type": "school",
+    "point": {
+      "lat": -12.2570383,
+      "lgt": -38.9517661
+    }
+  },
+  {
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA Campus Feira de Santana",
+    "type": "college",
+    "point": {
+      "lat": -12.2901171,
+      "lgt": -38.9128273
+    }
+  },
+  {
+    "name": "Colégio Helyos",
+    "type": "school",
+    "point": {
+      "lat": -12.2580554,
+      "lgt": -38.9325637
+    }
+  },
+  {
+    "name": "Los Pampas",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2611601,
+      "lgt": -38.9316135
+    }
+  },
+  {
+    "name": "Açaí do Jota",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.258356,
+      "lgt": -38.9442332
+    }
+  },
+  {
+    "name": "Behrmann",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2600502,
+      "lgt": -38.9443187
+    }
+  },
+  {
+    "name": "Breguedê Show Bar",
+    "type": "bar",
+    "point": {
+      "lat": -12.2622153,
+      "lgt": -38.9442176
+    }
+  },
+  {
+    "name": "Casa das Coxinhas",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2588205,
+      "lgt": -38.944254
+    }
+  },
+  {
+    "name": "Chesmar",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2631223,
+      "lgt": -38.9444267
+    }
+  },
+  {
+    "name": "Cortiço Drinks",
+    "type": "bar",
+    "point": {
+      "lat": -12.2585249,
+      "lgt": -38.9442335
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2621959,
+      "lgt": -38.9443771
+    }
+  },
+  {
+    "name": "Filozophia",
+    "type": "bar",
+    "point": {
+      "lat": -12.2573349,
+      "lgt": -38.9442069
+    }
+  },
+  {
+    "name": "Johnnie Club",
+    "type": "nightclub",
+    "point": {
+      "lat": -12.2604435,
+      "lgt": -38.9441318
+    }
+  },
+  {
+    "name": "Kero Pizza Delivery",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2624933,
+      "lgt": -38.9415997
+    }
+  },
+  {
+    "name": "Faenza",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2590984,
+      "lgt": -38.9442721
+    }
+  },
+  {
+    "name": "Paradinha Pastelaria",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2573401,
+      "lgt": -38.9440245
+    }
+  },
+  {
+    "name": "Pepperoni",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2580322,
+      "lgt": -38.9440565
+    }
+  },
+  {
+    "name": "Route 66",
+    "type": "bar",
+    "point": {
+      "lat": -12.2634735,
+      "lgt": -38.9442498
+    }
+  },
+  {
+    "name": "Satê",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.262023,
+      "lgt": -38.9443716
+    }
+  },
+  {
+    "name": "Sport Bar",
+    "type": "bar",
+    "point": {
+      "lat": -12.2621053,
+      "lgt": -38.9442016
+    }
+  },
+  {
+    "name": "Ao Vento",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2585404,
+      "lgt": -38.9440668
+    }
+  },
+  {
+    "name": "Teriyaki",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2576335,
+      "lgt": -38.9440346
+    }
+  },
+  {
+    "name": "Biblioteca Municipal",
+    "type": "library",
+    "point": {
+      "lat": -12.2507263,
+      "lgt": -38.9619814
+    }
+  },
+  {
+    "name": "Incardio",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2495583,
+      "lgt": -38.9558165
+    }
+  },
+  {
+    "name": "O Bicho",
+    "type": "veterinary",
+    "point": {
+      "lat": -12.2510484,
+      "lgt": -38.9619382
+    }
+  },
+  {
+    "name": "Predileto",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2510853,
+      "lgt": -38.962194
+    }
+  },
+  {
+    "name": "Saigon",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2583334,
+      "lgt": -38.944842
+    }
+  },
+  {
+    "name": "Pague Menos",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2498175,
+      "lgt": -38.9541368
+    }
+  },
+  {
+    "name": "Boa Nova",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2191312,
+      "lgt": -38.9513864
+    }
+  },
+  {
+    "name": "Colégio Nobre",
+    "type": "school",
+    "point": {
+      "lat": -12.2502035,
+      "lgt": -38.9550131
+    }
+  },
+  {
+    "name": "Degustar",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2189073,
+      "lgt": -38.951823
+    }
+  },
+  {
+    "name": "Hikarí",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2162631,
+      "lgt": -38.9512085
+    }
+  },
+  {
+    "name": "La Petitosa",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2163643,
+      "lgt": -38.9516264
+    }
+  },
+  {
+    "name": "Levi Lanches",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2164364,
+      "lgt": -38.9512215
+    }
+  },
+  {
+    "name": "Localiza",
+    "type": "car_rental",
+    "point": {
+      "lat": -12.2527423,
+      "lgt": -38.9547868
+    }
+  },
+  {
+    "name": "Pet Center Avenida",
+    "type": "veterinary",
+    "point": {
+      "lat": -12.2285991,
+      "lgt": -38.9530867
+    }
+  },
+  {
+    "name": "Chalé Catarinense",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.257244,
+      "lgt": -38.955032
+    }
+  },
+  {
+    "name": "Subway",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2562115,
+      "lgt": -38.9429846
+    }
+  },
+  {
+    "name": "Faculdade Nobre",
+    "type": "college",
+    "point": {
+      "lat": -12.2499523,
+      "lgt": -38.9547454
+    }
+  },
+  {
+    "name": "La Pasta Place",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2697556,
+      "lgt": -38.9509441
+    }
+  },
+  {
+    "name": "Planeta Pizzaria",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2699475,
+      "lgt": -38.9511814
+    }
+  },
+  {
+    "name": "Boteco do Camarão",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2582244,
+      "lgt": -38.9480882
+    }
+  },
+  {
+    "name": "Centro Educacional Monteiro Lobato",
+    "type": "school",
+    "point": {
+      "lat": -12.258489,
+      "lgt": -38.9466725
+    }
+  },
+  {
+    "name": "Teatro Margarida Ribeiro",
+    "type": "theatre",
+    "point": {
+      "lat": -12.2584721,
+      "lgt": -38.9470894
+    }
+  },
+  {
+    "name": "Farmácia Avante",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2449845,
+      "lgt": -38.947953
+    }
+  },
+  {
+    "name": "Flor Maracujá",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.253634,
+      "lgt": -38.9562806
+    }
+  },
+  {
+    "name": "Stillo Pizza",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2441943,
+      "lgt": -38.947322
+    }
+  },
+  {
+    "name": "Ultrafarma",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2487616,
+      "lgt": -38.9483759
+    }
+  },
+  {
+    "name": "Vanille Caffeterie",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2583595,
+      "lgt": -38.9480801
+    }
+  },
+  {
+    "name": "Acarajé.com",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2700987,
+      "lgt": -38.9511913
+    }
+  },
+  {
+    "name": "Colegio Intelecto",
+    "type": "school",
+    "point": {
+      "lat": -12.258301,
+      "lgt": -38.9652698
+    }
+  },
+  {
+    "name": "The House",
+    "type": "nightclub",
+    "point": {
+      "lat": -12.239428,
+      "lgt": -38.9471295
+    }
+  },
+  {
+    "name": "14 Bis",
+    "type": "bar",
+    "point": {
+      "lat": -12.2556061,
+      "lgt": -38.9454236
+    }
+  },
+  {
+    "name": "Creperia Mariposa",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2397274,
+      "lgt": -38.9468715
+    }
+  },
+  {
+    "name": "Farmácia da Economia",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2560933,
+      "lgt": -38.9447906
+    }
+  },
+  {
+    "name": "Árabe",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2556218,
+      "lgt": -38.9447745
+    }
+  },
+  {
+    "name": "Posto Trevo",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2653356,
+      "lgt": -38.9450743
+    }
+  },
+  {
+    "name": "Antiquário Pub",
+    "type": "pub",
+    "point": {
+      "lat": -12.2536601,
+      "lgt": -38.9468688
+    }
+  },
+  {
+    "name": "Jeca Total",
+    "type": "bar",
+    "point": {
+      "lat": -12.2541288,
+      "lgt": -38.9477939
+    }
+  },
+  {
+    "name": "La Pasta Place",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2596755,
+      "lgt": -38.9526961
+    }
+  },
+  {
+    "name": "SAC",
+    "type": "parking",
+    "point": {
+      "lat": -12.2581435,
+      "lgt": -38.9572799
+    }
+  },
+  {
+    "name": "CAPS - Oscar Marques",
+    "type": "doctors",
+    "point": {
+      "lat": -12.2587073,
+      "lgt": -38.9598077
+    }
+  },
+  {
+    "name": "Centro Médico da Rodoviária",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2587104,
+      "lgt": -38.9592823
+    }
+  },
+  {
+    "name": "Clínica Femme",
+    "type": "doctors",
+    "point": {
+      "lat": -12.2586672,
+      "lgt": -38.9606642
+    }
+  },
+  {
+    "name": "Clínica São Felipe",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2578995,
+      "lgt": -38.9614329
+    }
+  },
+  {
+    "name": "HappyCLIN",
+    "type": "dentist",
+    "point": {
+      "lat": -12.25888,
+      "lgt": -38.9607147
+    }
+  },
+  {
+    "name": "Instituto Pró Saber",
+    "type": "college",
+    "point": {
+      "lat": -12.2588954,
+      "lgt": -38.9596131
+    }
+  },
+  {
+    "name": "La Pasta",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2577392,
+      "lgt": -38.9614392
+    }
+  },
+  {
+    "name": "MedTrans",
+    "type": "doctors",
+    "point": {
+      "lat": -12.2583386,
+      "lgt": -38.9629894
+    }
+  },
+  {
+    "name": "Raro Sabor",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2588865,
+      "lgt": -38.9588773
+    }
+  },
+  {
+    "name": "Sobaby",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2587628,
+      "lgt": -38.9616079
+    }
+  },
+  {
+    "name": "Sobreira Centro Odontológico",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2589078,
+      "lgt": -38.959954
+    }
+  },
+  {
+    "name": "Unimed Feira de Santana",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2588767,
+      "lgt": -38.9602636
+    }
+  },
+  {
+    "name": "FTC - Faculdade de Tecnologia e Ciências",
+    "type": "university",
+    "point": {
+      "lat": -12.2461979,
+      "lgt": -38.9247285
+    }
+  },
+  {
+    "name": "FAT - Faculdade Anísio Teixeira",
+    "type": "college",
+    "point": {
+      "lat": -12.2598996,
+      "lgt": -38.949295
+    }
+  },
+  {
+    "name": "La Pasta Place",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2579532,
+      "lgt": -38.9442562
+    }
+  },
+  {
+    "name": "Stop Nil",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2518661,
+      "lgt": -38.9562343
+    }
+  },
+  {
+    "name": "Wasabi",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2538372,
+      "lgt": -38.9561777
+    }
+  },
+  {
+    "name": "Red Hashi",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2520389,
+      "lgt": -38.9564275
+    }
+  },
+  {
+    "name": "Farmaceo",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2666687,
+      "lgt": -38.9511037
+    }
+  },
+  {
+    "name": "Drogasil",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2560251,
+      "lgt": -38.9493849
+    }
+  },
+  {
+    "name": "UNIFACS",
+    "type": "university",
+    "point": {
+      "lat": -12.2584882,
+      "lgt": -38.9339638
+    }
+  },
+  {
+    "name": "Qian Qian",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2593915,
+      "lgt": -38.9671692
+    }
+  },
+  {
+    "name": "Igreja Batista Central",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2554961,
+      "lgt": -38.947424
+    }
+  },
+  {
+    "name": "Swásthya Yôga",
+    "type": "school",
+    "point": {
+      "lat": -12.2566887,
+      "lgt": -38.9484859
+    }
+  },
+  {
+    "name": "Sashimi",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2581953,
+      "lgt": -38.9440547
+    }
+  },
+  {
+    "name": "Clube do Carro",
+    "type": "car_wash",
+    "point": {
+      "lat": -12.2564688,
+      "lgt": -38.9493756
+    }
+  },
+  {
+    "name": "Unique Cafe Lounge",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2539738,
+      "lgt": -38.9561723
+    }
+  },
+  {
+    "name": "Ponto do Macarrão",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2408465,
+      "lgt": -38.9638273
+    }
+  },
+  {
+    "name": "TRE-BA / Fórum Eleitoral",
+    "type": "courthouse",
+    "point": {
+      "lat": -12.2381151,
+      "lgt": -38.9630334
+    }
+  },
+  {
+    "name": "Escola Castro Alves",
+    "type": "school",
+    "point": {
+      "lat": -12.2516774,
+      "lgt": -38.9614831
+    }
+  },
+  {
+    "name": "Farmácia do Meu Bairro",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2697331,
+      "lgt": -38.9511949
+    }
+  },
+  {
+    "name": "Colégio Estadual de Feira de Santana",
+    "type": "school",
+    "point": {
+      "lat": -12.2591705,
+      "lgt": -38.9553738
+    }
+  },
+  {
+    "name": "Well Park",
+    "type": "parking",
+    "point": {
+      "lat": -12.2564405,
+      "lgt": -38.9552222
+    }
+  },
+  {
+    "name": "Mesa Quente",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2645335,
+      "lgt": -38.9507281
+    }
+  },
+  {
+    "name": "Boteco do Camarão",
+    "type": "bar",
+    "point": {
+      "lat": -12.2586574,
+      "lgt": -38.9442431
+    }
+  },
+  {
+    "name": "AVA",
+    "type": "car_rental",
+    "point": {
+      "lat": -12.2565103,
+      "lgt": -38.9554345
+    }
+  },
+  {
+    "name": "Loteria",
+    "type": "bicycle_parking",
+    "point": {
+      "lat": -12.2635979,
+      "lgt": -38.9526812
+    }
+  },
+  {
+    "name": "Farmácia Feira",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2631654,
+      "lgt": -38.9529062
+    }
+  },
+  {
+    "name": "Piatto",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2549768,
+      "lgt": -38.9572515
+    }
+  },
+  {
+    "name": "Banco do Brasil",
+    "type": "bicycle_parking",
+    "point": {
+      "lat": -12.2557579,
+      "lgt": -38.9549743
+    }
+  },
+  {
+    "name": "Farmácia da Economia",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2558575,
+      "lgt": -38.9529707
+    }
+  },
+  {
+    "name": "Stop Nil",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2650582,
+      "lgt": -38.9404013
+    }
+  },
+  {
+    "name": "Cravo e Panela",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2391503,
+      "lgt": -38.947054
+    }
+  },
+  {
+    "name": "Colégio João Durval Carneiro",
+    "type": "school",
+    "point": {
+      "lat": -12.2356802,
+      "lgt": -38.9448439
+    }
+  },
+  {
+    "name": "Espaço Cultural Chão de Estrelas",
+    "type": "nightclub",
+    "point": {
+      "lat": -12.2561936,
+      "lgt": -38.9452131
+    }
+  },
+  {
+    "name": "McDonald\u0027s",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2560049,
+      "lgt": -38.9483673
+    }
+  },
+  {
+    "name": "Igreja Batista da Avenida",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2565173,
+      "lgt": -38.9333764
+    }
+  },
+  {
+    "name": "Aprisco",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2525652,
+      "lgt": -38.9542488
+    }
+  },
+  {
+    "name": "Bambino",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2539423,
+      "lgt": -38.9543587
+    }
+  },
+  {
+    "name": "Cat \u0026 Dog",
+    "type": "veterinary",
+    "point": {
+      "lat": -12.2526574,
+      "lgt": -38.9581322
+    }
+  },
+  {
+    "name": "Clínica Maria Quiteria",
+    "type": "doctors",
+    "point": {
+      "lat": -12.2533068,
+      "lgt": -38.9548273
+    }
+  },
+  {
+    "name": "Doenças do Coração",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2541125,
+      "lgt": -38.9548605
+    }
+  },
+  {
+    "name": "Drogasil",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2520707,
+      "lgt": -38.9543019
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2543719,
+      "lgt": -38.9543711
+    }
+  },
+  {
+    "name": "FisioSaúde",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2526615,
+      "lgt": -38.9579228
+    }
+  },
+  {
+    "name": "Hospital Ortopédico",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2535693,
+      "lgt": -38.9569689
+    }
+  },
+  {
+    "name": "Neocenter",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2537963,
+      "lgt": -38.9570726
+    }
+  },
+  {
+    "name": "Odonto Club",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2522699,
+      "lgt": -38.954736
+    }
+  },
+  {
+    "name": "Opera Idiomas",
+    "type": "school",
+    "point": {
+      "lat": -12.252357,
+      "lgt": -38.9581086
+    }
+  },
+  {
+    "name": "Oxente Menina",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.251854,
+      "lgt": -38.9550677
+    }
+  },
+  {
+    "name": "Paraíso da Carne do Sol",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2519735,
+      "lgt": -38.9578859
+    }
+  },
+  {
+    "name": "OdontoDia",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2572779,
+      "lgt": -38.9589088
+    }
+  },
+  {
+    "name": "Espaço Vegetariano",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.251817,
+      "lgt": -38.9579778
+    }
+  },
+  {
+    "name": "Arpoador Petisqueria",
+    "type": "pub",
+    "point": {
+      "lat": -12.2572095,
+      "lgt": -38.947912
+    }
+  },
+  {
+    "name": "Cantina Aprile",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2598638,
+      "lgt": -38.9480087
+    }
+  },
+  {
+    "name": "Maestro Titta",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.260063,
+      "lgt": -38.9480194
+    }
+  },
+  {
+    "name": "Casa do Acarajé e Restaurante",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2555013,
+      "lgt": -38.9472416
+    }
+  },
+  {
+    "name": "Skina de Carnes",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2224867,
+      "lgt": -38.9515199
+    }
+  },
+  {
+    "name": "Sol de Verão Sorveteria e Pizzaria",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2513653,
+      "lgt": -38.9547065
+    }
+  },
+  {
+    "name": "Bate Papo",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2515645,
+      "lgt": -38.9547115
+    }
+  },
+  {
+    "name": "Cidade da Cultura",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2165166,
+      "lgt": -38.9487284
+    }
+  },
+  {
+    "name": "Gol Log",
+    "type": "post_office",
+    "point": {
+      "lat": -12.2701617,
+      "lgt": -38.9377541
+    }
+  },
+  {
+    "name": "Caixa",
+    "type": "bank",
+    "point": {
+      "lat": -12.2559093,
+      "lgt": -38.9365924
+    }
+  },
+  {
+    "name": "China Home",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2562331,
+      "lgt": -38.9395851
+    }
+  },
+  {
+    "name": "Colégio Asas",
+    "type": "school",
+    "point": {
+      "lat": -12.2566792,
+      "lgt": -38.9271671
+    }
+  },
+  {
+    "name": "Escola Despertar",
+    "type": "school",
+    "point": {
+      "lat": -12.2561269,
+      "lgt": -38.9280745
+    }
+  },
+  {
+    "name": "FUFS - Faculdades Unidas Feira de Santana",
+    "type": "college",
+    "point": {
+      "lat": -12.2563233,
+      "lgt": -38.9367134
+    }
+  },
+  {
+    "name": "Gauchão",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2562209,
+      "lgt": -38.9411105
+    }
+  },
+  {
+    "name": "Igreja Presbiteriana Betel",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2579805,
+      "lgt": -38.9433286
+    }
+  },
+  {
+    "name": "Juracy Dourado - Instituto de Ortodontia",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2563483,
+      "lgt": -38.9359259
+    }
+  },
+  {
+    "name": "Maximello",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2562228,
+      "lgt": -38.9399846
+    }
+  },
+  {
+    "name": "O Bicho",
+    "type": "veterinary",
+    "point": {
+      "lat": -12.2562156,
+      "lgt": -38.9418302
+    }
+  },
+  {
+    "name": "Posto Santana",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2558017,
+      "lgt": -38.9387342
+    }
+  },
+  {
+    "name": "Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2565251,
+      "lgt": -38.9327101
+    }
+  },
+  {
+    "name": "Água na Boca",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2557379,
+      "lgt": -38.9415066
+    }
+  },
+  {
+    "name": "Cantina da Dinha",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2613316,
+      "lgt": -38.9478853
+    }
+  },
+  {
+    "name": "Brasil Colonial Bistrô",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2613316,
+      "lgt": -38.9482715
+    }
+  },
+  {
+    "name": "Kero Pizza",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2568758,
+      "lgt": -38.9439961
+    }
+  },
+  {
+    "name": "Top Boliche Bar",
+    "type": "bar",
+    "point": {
+      "lat": -12.2378111,
+      "lgt": -38.9463107
+    }
+  },
+  {
+    "name": "Otorrinos",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2526357,
+      "lgt": -38.9628119
+    }
+  },
+  {
+    "name": "Comunicare",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2543374,
+      "lgt": -38.9554224
+    }
+  },
+  {
+    "name": "Colégio Civilização",
+    "type": "school",
+    "point": {
+      "lat": -12.2735481,
+      "lgt": -38.9499082
+    }
+  },
+  {
+    "name": "Don Pasquale",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.265167,
+      "lgt": -38.9547843
+    }
+  },
+  {
+    "name": "Ki Mistura",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2649412,
+      "lgt": -38.9551383
+    }
+  },
+  {
+    "name": "Água na Boca",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.264777,
+      "lgt": -38.9551303
+    }
+  },
+  {
+    "name": "Igreja Quadrangular",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.3031903,
+      "lgt": -38.9551475
+    }
+  },
+  {
+    "name": "CETENS - Centro de Ciência e Tecnologia em Energia e Sustentabilidade - UFRB",
+    "type": "university",
+    "point": {
+      "lat": -12.2543745,
+      "lgt": -38.9262559
+    }
+  },
+  {
+    "name": "Teatro do CDL",
+    "type": "theatre",
+    "point": {
+      "lat": -12.2578385,
+      "lgt": -38.9679292
+    }
+  },
+  {
+    "name": "Pague Menos",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2412546,
+      "lgt": -38.9466188
+    }
+  },
+  {
+    "name": "Cantina do módulo 1 - UEFS",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.1996266,
+      "lgt": -38.9692968
+    }
+  },
+  {
+    "name": "Fifó",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2045987,
+      "lgt": -38.971753
+    }
+  },
+  {
+    "name": "Cantina do módulo 3 - UEFS",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.200432,
+      "lgt": -38.971392
+    }
+  },
+  {
+    "name": "Cantina do módulo 7 - UEFS",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2014782,
+      "lgt": -38.9750405
+    }
+  },
+  {
+    "name": "Quatro Estações",
+    "type": "bar",
+    "point": {
+      "lat": -12.2065462,
+      "lgt": -38.9668689
+    }
+  },
+  {
+    "name": "A República",
+    "type": "bar",
+    "point": {
+      "lat": -12.206541,
+      "lgt": -38.967003
+    }
+  },
+  {
+    "name": "SESU",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2005129,
+      "lgt": -38.974262
+    }
+  },
+  {
+    "name": "Cantina do módulo 5 - UEFS",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.200985,
+      "lgt": -38.9734129
+    }
+  },
+  {
+    "name": "Lar do Irmão Velho",
+    "type": "social_facility",
+    "point": {
+      "lat": -12.2623988,
+      "lgt": -38.9337525
+    }
+  },
+  {
+    "name": "Lar de Idosos São Sebastião",
+    "type": "social_facility",
+    "point": {
+      "lat": -12.2634411,
+      "lgt": -38.9455486
+    }
+  },
+  {
+    "name": "Subway",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2250408,
+      "lgt": -38.9514291
+    }
+  },
+  {
+    "name": "Gauchão",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2268807,
+      "lgt": -38.9532722
+    }
+  },
+  {
+    "name": "Prime",
+    "type": "nightclub",
+    "point": {
+      "lat": -12.2337886,
+      "lgt": -38.9531696
+    }
+  },
+  {
+    "name": "Boteco Vip",
+    "type": "bar",
+    "point": {
+      "lat": -12.255247,
+      "lgt": -38.9492342
+    }
+  },
+  {
+    "name": "Colégio Gênesis",
+    "type": "school",
+    "point": {
+      "lat": -12.2549208,
+      "lgt": -38.9469179
+    }
+  },
+  {
+    "name": "Escola da Obra Promocional de Santana",
+    "type": "school",
+    "point": {
+      "lat": -12.2644279,
+      "lgt": -38.9547474
+    }
+  },
+  {
+    "name": "Instituto de Reabilitação e Medicina Especializada - IRM",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2568445,
+      "lgt": -38.9493476
+    }
+  },
+  {
+    "name": "Videira",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2606015,
+      "lgt": -38.9451237
+    }
+  },
+  {
+    "name": "Restaurante Vitrô",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2576014,
+      "lgt": -38.9549654
+    }
+  },
+  {
+    "name": "Advocacia Geral da Uniao - AGU",
+    "type": "public_building",
+    "point": {
+      "lat": -12.2703086,
+      "lgt": -38.9511917
+    }
+  },
+  {
+    "name": "Brasília Drinks",
+    "type": "bar",
+    "point": {
+      "lat": -12.2725811,
+      "lgt": -38.9510451
+    }
+  },
+  {
+    "name": "Creche Crescer",
+    "type": "kindergarten",
+    "point": {
+      "lat": -12.2696662,
+      "lgt": -38.9509415
+    }
+  },
+  {
+    "name": "Creche Escola Hotel da Criança",
+    "type": "kindergarten",
+    "point": {
+      "lat": -12.2773498,
+      "lgt": -38.9514141
+    }
+  },
+  {
+    "name": "La Grill",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2698576,
+      "lgt": -38.9511897
+    }
+  },
+  {
+    "name": "Pró-Diagnóstico",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2687978,
+      "lgt": -38.9544194
+    }
+  },
+  {
+    "name": "UNEF - Unidade de Ensino Superior de Feira de Santana",
+    "type": "college",
+    "point": {
+      "lat": -12.2760202,
+      "lgt": -38.9339425
+    }
+  },
+  {
+    "name": "Dercius Sanduicheria",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2651356,
+      "lgt": -38.9551497
+    }
+  },
+  {
+    "name": "Gauchão",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2642287,
+      "lgt": -38.9547366
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2548403,
+      "lgt": -38.9669631
+    }
+  },
+  {
+    "name": "Farmácia Silva",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2774964,
+      "lgt": -38.9518747
+    }
+  },
+  {
+    "name": "Farmácia Vida",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.255429,
+      "lgt": -38.9641774
+    }
+  },
+  {
+    "name": "Farmácia do Trabalhador",
+    "type": "pharmacy",
+    "point": {
+      "lat": -12.2551952,
+      "lgt": -38.9672763
+    }
+  },
+  {
+    "name": "Life Odonto",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2548106,
+      "lgt": -38.9671947
+    }
+  },
+  {
+    "name": "Posto Modelo",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2549782,
+      "lgt": -38.963905
+    }
+  },
+  {
+    "name": "Posto Senador",
+    "type": "fuel",
+    "point": {
+      "lat": -12.2690541,
+      "lgt": -38.9597393
+    }
+  },
+  {
+    "name": "Hospital Unimed",
+    "type": "hospital",
+    "point": {
+      "lat": -12.2388633,
+      "lgt": -38.9458238
+    }
+  },
+  {
+    "name": "Bradesco",
+    "type": "bank",
+    "point": {
+      "lat": -12.2394246,
+      "lgt": -38.9460182
+    }
+  },
+  {
+    "name": "Rizzo Odontologia",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2581118,
+      "lgt": -38.9600194
+    }
+  },
+  {
+    "name": "Gastros Bahia",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2586358,
+      "lgt": -38.960033
+    }
+  },
+  {
+    "name": "Polícia Federal",
+    "type": "police",
+    "point": {
+      "lat": -12.2669901,
+      "lgt": -38.9552285
+    }
+  },
+  {
+    "name": "O Caranguejo",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2671833,
+      "lgt": -38.9548687
+    }
+  },
+  {
+    "name": "Auditório 2 - UEFS",
+    "type": "auditorium",
+    "point": {
+      "lat": -12.1999288,
+      "lgt": -38.9693125
+    }
+  },
+  {
+    "name": "Auditório 1 - UEFS",
+    "type": "auditorium",
+    "point": {
+      "lat": -12.2000966,
+      "lgt": -38.9693128
+    }
+  },
+  {
+    "name": "NUCAE",
+    "type": "laboratory",
+    "point": {
+      "lat": -12.2000756,
+      "lgt": -38.9714745
+    }
+  },
+  {
+    "name": "Auditório 3 - UEFS",
+    "type": "auditorium",
+    "point": {
+      "lat": -12.2008883,
+      "lgt": -38.9721719
+    }
+  },
+  {
+    "name": "Auditório 5 - UEFS",
+    "type": "auditorium",
+    "point": {
+      "lat": -12.2017639,
+      "lgt": -38.9750526
+    }
+  },
+  {
+    "name": "LabProg",
+    "type": "laboratory",
+    "point": {
+      "lat": -12.2005895,
+      "lgt": -38.9734111
+    }
+  },
+  {
+    "name": "Anfiteatro",
+    "type": "auditorium",
+    "point": {
+      "lat": -12.2002592,
+      "lgt": -38.9702837
+    }
+  },
+  {
+    "name": "AnimalMed",
+    "type": "veterinary",
+    "point": {
+      "lat": -12.2595586,
+      "lgt": -38.9453423
+    }
+  },
+  {
+    "name": "Escola Dom Basílio",
+    "type": "school",
+    "point": {
+      "lat": -12.2694345,
+      "lgt": -38.9499128
+    }
+  },
+  {
+    "name": "Radiola Lanchonete Cultural",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2488828,
+      "lgt": -38.9539718
+    }
+  },
+  {
+    "name": "Camurujipe Encomendas",
+    "type": "post_office",
+    "point": {
+      "lat": -12.2593077,
+      "lgt": -38.9573853
+    }
+  },
+  {
+    "name": "Mercato Cafeteria",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2585728,
+      "lgt": -38.957976
+    }
+  },
+  {
+    "name": "Novo Horizonte Encomendas",
+    "type": "post_office",
+    "point": {
+      "lat": -12.259585,
+      "lgt": -38.9572874
+    }
+  },
+  {
+    "name": "Águia Branca Encomendas",
+    "type": "post_office",
+    "point": {
+      "lat": -12.2591625,
+      "lgt": -38.957436
+    }
+  },
+  {
+    "name": "Escola Monsenhor Mário Pessoa",
+    "type": "school",
+    "point": {
+      "lat": -12.2301563,
+      "lgt": -38.960351
+    }
+  },
+  {
+    "name": "You Odontologia",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2552232,
+      "lgt": -38.9582514
+    }
+  },
+  {
+    "name": "Gastros Bahia",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2543901,
+      "lgt": -38.9572454
+    }
+  },
+  {
+    "name": "PRF",
+    "type": "police",
+    "point": {
+      "lat": -12.2885548,
+      "lgt": -39.0110802
+    }
+  },
+  {
+    "name": "You odontologia",
+    "type": "clinic",
+    "point": {
+      "lat": -12.2551479,
+      "lgt": -38.9591161
+    }
+  },
+  {
+    "name": "Loja Maçônica",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2557485,
+      "lgt": -38.9592215
+    }
+  },
+  {
+    "name": "Rádio Jovem Pan",
+    "type": "studio",
+    "point": {
+      "lat": -12.2520397,
+      "lgt": -38.9565678
+    }
+  },
+  {
+    "name": "Igreja Matriz de São João Paulo II",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2175441,
+      "lgt": -38.9501518
+    }
+  },
+  {
+    "name": "CETV - Colégio Estadual Teotônio Vilela",
+    "type": "school",
+    "point": {
+      "lat": -12.2173079,
+      "lgt": -38.9495999
+    }
+  },
+  {
+    "name": "Igreja de São Judas Tadeu",
+    "type": "place_of_worship",
+    "point": {
+      "lat": -12.2231558,
+      "lgt": -38.9446134
+    }
+  },
+  {
+    "name": "Clínica Orthos",
+    "type": "dentist",
+    "point": {
+      "lat": -12.2535299,
+      "lgt": -38.9592623
+    }
+  },
+  {
+    "name": "Tonha do Salgado",
+    "type": "fast_food",
+    "point": {
+      "lat": -12.2458876,
+      "lgt": -38.949128
+    }
+  },
+  {
+    "name": "Glacê de Fita",
+    "type": "cafe",
+    "point": {
+      "lat": -12.2625465,
+      "lgt": -38.9387782
+    }
+  },
+  {
+    "name": "Bar do Roque",
+    "type": "restaurant",
+    "point": {
+      "lat": -12.2588359,
+      "lgt": -38.9506592
+    }
+  },
+  {
+    "name": "Sest Senat",
+    "type": "community_centre",
+    "point": {
+      "lat": -12.2791581,
+      "lgt": -38.942057
+    }
+  }
+]
