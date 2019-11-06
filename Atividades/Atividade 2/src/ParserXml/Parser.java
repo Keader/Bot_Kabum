@@ -14,13 +14,13 @@ import static java.util.stream.Collectors.groupingBy;
 public class Parser {
 
     public static void main(String args[]) {
-
         Serializer serializer = new Persister();
         File source = new File("D:\\Bot_Kabum\\Atividades\\Atividade 2\\src\\ParserXml\\FeiraDeSantana.osm");
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
         try {
             Osm osm = serializer.read(Osm.class, source);
+
             List<Node> filtredList = osm.nodes.stream().filter(node -> !node.tags.isEmpty())
                     .filter(node -> {
                         Map<String, List<Tag>> group = node.tags.stream().collect(groupingBy(Tag::getK));
@@ -30,8 +30,10 @@ public class Parser {
             PrintStream fileStream = new PrintStream(new File("D:\\Bot_Kabum\\Atividades\\Atividade 2\\src\\ParserXml\\out.json"));
 
             List<JsonResult> results = new LinkedList<>();
+
             filtredList.forEach(node -> {
                 JsonResult result = new JsonResult();
+
                 node.tags.forEach(tag-> {
                     if (tag.getK().equals("amenity"))
                         result.type = tag.getV();
@@ -44,14 +46,13 @@ public class Parser {
             });
 
             String json = gson.toJson(results);
-            fileStream.println(json);
+            fileStream.print(json);
             fileStream.flush();
             fileStream.close();
             System.out.println("Parsed " + results.size() + " results");
+
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
-
 }
