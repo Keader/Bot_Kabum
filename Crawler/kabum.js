@@ -17,11 +17,11 @@ module.exports = async function GetProducts(productName) {
     const body = await axios.get(url + productName, { responseType: 'arraybuffer' })
 
     const $ = cheerio.load(body.data)
-    const ofertas = $('.listagem-box')
+    const offers = $('.listagem-box')
 
-    for (let i = 0; i < ofertas.length; i++){
+    for (let i = 0; i < offers.length; i++){
         // Search by Title and Link
-        const titleBlock = $(ofertas[i]).find('.H-titulo a')
+        const titleBlock = $(offers[i]).find('.H-titulo a')
         const title = titleBlock.text()
         const link = titleBlock.attr('href')
 
@@ -32,11 +32,11 @@ module.exports = async function GetProducts(productName) {
             console.log(title + ' : ' + link + '\n')
 
         // Search Price (with 15% discount)
-        const priceFull = $(ofertas[i]).find('.listagem-preco').text()
+        const priceFull = $(offers[i]).find('.listagem-preco').text()
         console.log('Preço: ' + priceFull + '\n')
 
         // Check if is available.
-        const image = $(ofertas[i]).find('.listagem-bots').find('img').attr('src')
+        const image = $(offers[i]).find('.listagem-bots').find('img').attr('src')
         const available = !image.includes('comprar_off')
         console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n')
     }
