@@ -14,61 +14,39 @@ axios.interceptors.response.use((response) => {
 module.exports = async function GetProducts(productName) {
     const body = await axios.get(url + productName, { responseType: 'arraybuffer' })
 
-    const $ = cheerio.load(body.data);
+    const $ = cheerio.load(body.data)
 
     $('.listagem-box').each(function()
     {
-        // Search by Title and Link stuffs
-        const titleBlock = $(this).find('.H-titulo a');
-        const title = titleBlock.text();
-        const link = titleBlock.attr('href');
-        console.log(title + ' : ' + link + '\n');
+        // Search by Title and Link
+        const titleBlock = $(this).find('.H-titulo a')
+        const title = titleBlock.text()
+        const link = titleBlock.attr('href')
+        console.log(title + ' : ' + link + '\n')
 
         // Search Price (with 15% discount)
-        const priceFull = $(this).find('.listagem-preco').text();
-        console.log('Preço: ' + priceFull + '\n');
+        const priceFull = $(this).find('.listagem-preco').text()
+        console.log('Preço: ' + priceFull + '\n')
 
         // Check if is available.
-        const image = $(this).find('.listagem-bots').find('img').attr('src');
-        const available = !image.includes('comprar_off');
-        console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n');
+        const image = $(this).find('.listagem-bots').find('img').attr('src')
+        const available = !image.includes('comprar_off')
+        console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n')
 
-        //Todo: Need parse all links, to check if has promotion or not.
+        let promotion = CheckIfHasPromotion(link)
+        if (promotion)
+            console.log('Produto em promoção !' + '\n')
 
     });
-
     return body.data
 }
 
-/*
-request(url, { encoding: 'binary'} ,  function(err, res, body)
-{
-    if (err)
-        console.log('Error: ' + err);
-    else
-    {
+function CheckIfHasPromotion(url) {
 
-        const $ = cheerio.load(body);
-        $('.listagem-box').each(function()
-        {
-            // Search by Title and Link stuffs
-            const titleBlock = $(this).find('.H-titulo a');
-            const title = titleBlock.text();
-            const link = titleBlock.attr('href');
-            console.log(title + ' : ' + link + '\n');
-
-            // Search Price (with 15% discount)
-            const priceFull = $(this).find('.listagem-preco').text();
-            console.log('Preço: ' + priceFull + '\n');
-
-            // Check if is available.
-            const image = $(this).find('.listagem-bots').find('img').attr('src');
-            const available = !image.includes('comprar_off');
-            console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n');
-
-            //Todo: Need parse all links, to check if has promotion or not.
-
-        });
-    }
-});
-*/
+    axios.get(url, { responseType: 'arraybuffer' }).then(body => {
+        const $ = cheerio.load(body.data)
+        // Check if product has countdown
+        const countdown = $('.box_comprar-cm').find('.contTEXTO').text()
+        return countdown != '' ? true : false
+    }).catch(exception => { return false })
+}
