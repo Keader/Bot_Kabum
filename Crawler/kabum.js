@@ -4,6 +4,7 @@ const iconv = require('iconv-lite');
 
 const url = 'https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?ordem=5&limite=100&pagina=1&string=';
 
+// Convert response of Axios to ISO-8859-1
 axios.interceptors.response.use((response) => {
     const content = response.headers["content-type"];
     if (content.includes("charset=ISO-8859-1"))
@@ -11,42 +12,42 @@ axios.interceptors.response.use((response) => {
     return response;
 });
 
+// Get a list of products with specific name
 module.exports = async function GetProducts(productName) {
     const body = await axios.get(url + productName, { responseType: 'arraybuffer' })
 
     const $ = cheerio.load(body.data)
+    const ofertas = $('.listagem-box')
 
-    $('.listagem-box').each(function()
-    {
+    for (let i = 0; i < ofertas.length; i++){
         // Search by Title and Link
-        const titleBlock = $(this).find('.H-titulo a')
+        const titleBlock = $(ofertas[i]).find('.H-titulo a')
         const title = titleBlock.text()
         const link = titleBlock.attr('href')
-        console.log(title + ' : ' + link + '\n')
+
+        // Check if has promotion
+        if (await CheckIfHasPromotion(link))
+            console.log('[PROMOÇÃO] '+ title + ' : ' + link + '\n')
+        else
+            console.log(title + ' : ' + link + '\n')
 
         // Search Price (with 15% discount)
-        const priceFull = $(this).find('.listagem-preco').text()
+        const priceFull = $(ofertas[i]).find('.listagem-preco').text()
         console.log('Preço: ' + priceFull + '\n')
 
         // Check if is available.
-        const image = $(this).find('.listagem-bots').find('img').attr('src')
+        const image = $(ofertas[i]).find('.listagem-bots').find('img').attr('src')
         const available = !image.includes('comprar_off')
         console.log(available ? 'Produto está disponível !\n' : 'Produto está Indisponível ! \n')
+    }
 
-        let promotion = CheckIfHasPromotion(link)
-        if (promotion)
-            console.log('Produto em promoção !' + '\n')
-
-    });
     return body.data
 }
 
-function CheckIfHasPromotion(url) {
-
-    axios.get(url, { responseType: 'arraybuffer' }).then(body => {
-        const $ = cheerio.load(body.data)
-        // Check if product has countdown
-        const countdown = $('.box_comprar-cm').find('.contTEXTO').text()
-        return countdown != '' ? true : false
-    }).catch(exception => { return false })
+async function CheckIfHasPromotion(url) {
+    const body = await axios.get(url, { responseType: 'arraybuffer' })
+    const $ = cheerio.load(body.data)
+    // Check if product has countdown
+    const countdown = $('.box_comprar-cm').find('.contTEXTO').text()
+    return countdown ? true : false
 }
