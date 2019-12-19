@@ -3,50 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Contatos</title>
-    <script>
-        const url = 'https://8klio9atoh.execute-api.us-west-2.amazonaws.com/default/Contatos';
-
-        function cadastraContato() {
-            const email = document.cadastro.email.value;
-            const nome = document.cadastro.nome.value;
-
-            const ajax = new XMLHttpRequest();
-            ajax.open('PUT', url, true);
-
-            const info = {
-                email: email,
-                name: nome
-            };
-
-            ajax.send(JSON.stringify(info));
-            //JSON.stringify(info, null, 2)
-        }
-
-        function buscaContato() {
-            const nome = document.busca.nome.value;
-
-            let resultados = new Array();
-
-            const ajax = new XMLHttpRequest();
-
-            ajax.onreadystatechange = function() {
-                if (ajax.readyState == 4 ) {
-                    const contatos = JSON.parse(ajax.responseText);
-
-                    contatos.forEach(item => {
-                        if (item.nome.contains(nome) || item.email.contains(nome))
-                            resultados.add("Email: " + item.email + " nome: " + item.nome);
-                    });
-
-                    document.getElementById("resultados").innerText = resultados.join("<br>");
-                }
-            };
-
-            ajax.open("GET", url, true);
-            ajax.send();
-        }
-    </script>
-
+    <script src="metodos.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 </head>
 <body>
 
