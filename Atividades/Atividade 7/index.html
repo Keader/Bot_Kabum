@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contatos</title>
+    <script>
+        const url = 'https://8klio9atoh.execute-api.us-west-2.amazonaws.com/default/Contatos';
+
+        function cadastraContato() {
+            const email = document.cadastro.email.value;
+            const nome = document.cadastro.nome.value;
+
+            const ajax = new XMLHttpRequest();
+            ajax.open('PUT', url, true);
+
+            const info = {
+                email: email,
+                name: nome
+            };
+
+            ajax.send(JSON.stringify(info));
+            //JSON.stringify(info, null, 2)
+        }
+
+        function buscaContato() {
+            const nome = document.busca.nome.value;
+
+            let resultados = new Array();
+
+            const ajax = new XMLHttpRequest();
+
+            ajax.onreadystatechange = function() {
+                if (ajax.readyState == 4 ) {
+                    const contatos = JSON.parse(ajax.responseText);
+
+                    contatos.forEach(item => {
+                        if (item.nome.contains(nome) || item.email.contains(nome))
+                            resultados.add("Email: " + item.email + " nome: " + item.nome);
+                    });
+
+                    document.getElementById("resultados").innerText = resultados.join("<br>");
+                }
+            };
+
+            ajax.open("GET", url, true);
+            ajax.send();
+        }
+    </script>
+
+</head>
+<body>
+
+<h2>Cadastro</h2>
+<form name="cadastro" method="POST">
+    <label>
+        Email: <input type="text" name="email" />
+    </label> <br/>
+    <label>
+        Nome: <input type="text" name="nome" />
+    </label><br />
+    <button type="button" onclick="cadastraContato()">Cadastrar</button>
+</form>
+
+<h2>Busca</h2>
+<form name="busca" method="GET">
+    <label>
+        Nome do Contato: <input type="text" name="nome" />
+    </label> <br/>
+    <button type="button" onclick="buscaContato()">Buscar</button>
+</form>
+
+<h2>Resultados !</h2>
+
+<div id="resultados">
+
+</div>
+
+
+</body>
+</html>
