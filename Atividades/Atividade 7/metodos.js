@@ -9,32 +9,13 @@ function cadastraContato() {
     };
     const json =  JSON.stringify(info);
     console.log("PUT: " + json);
-    // JSON.stringify(info, null, 2) Pretty Print
 
-    axios({
-        method: 'put',
-        url: url,
-        data: json
-    }).then(r => console.log(r))
-        .catch(r => console.log(r));
-
-
-    /*
-    const ajax = new XMLHttpRequest();
-    ajax.open('PUT', url, true);
-
-    const info = {
-        email: email,
-        name: nome
-    };
-
-    ajax.send(JSON.stringify(info));
-     */
+    axios.put(url, json);
 }
 
 function buscaContato() {
     const nome = document.busca.nome.value;
-    let resultados = new Array();
+    let resultados = [];
 
     axios.get(url).then(response => {
         let json = response.data;
