@@ -2,7 +2,7 @@
   "name": "Bot_Kabum",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cheerio": "latest",
     "iconv-lite": "^0.5.0"
   }
